@@ -19,4 +19,9 @@ develop-eggs
 # Installer logs
 pip-log.txt
 
+# Program output
+stops.json
+routes.json
+departures.json
+
 .idea/
